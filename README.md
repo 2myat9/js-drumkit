@@ -4,6 +4,8 @@
 
 This is **project 1** of the Javascript 30-day Challenge by [Wes Bos](https://wesbos.com/).
 
+Preview: https://fun-js-drumkit.netlify.app/
+
 ### What I learned from this project
 
 - How to use data attributes
